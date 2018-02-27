@@ -1,5 +1,3 @@
-f = open("data/iris.csv")
 
-print(f.read())
-
-f.close()
+with open("data/iris.csv") as f:
+    print(f.read())
