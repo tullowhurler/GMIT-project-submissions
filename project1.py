@@ -15,3 +15,5 @@ while i < 1000:
 	 sum = sum + i
 	i = i + 1 # have to change i by 1 to continue the loop
 print (" sum of multiples of 3 + 5, less than a 1000:", sum)  
+
+# github
