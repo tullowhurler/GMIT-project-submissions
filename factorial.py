@@ -2,6 +2,7 @@
 # 12/3/18
 # Exercise 6, Factorials 
 
+# code sourced from https://www.programiz.com/python-programming/examples/factorial and edited to my own requirements
 num = 5
 factorial = 1
 for i in range(1, num + 1):
@@ -25,3 +26,5 @@ import math
 print("The factorial of the number 5 is", math.factorial(5))
 print("The factorial of the number 7 is", math.factorial(7))
 print("The factorial of the number 10 is", math.factorial(10))
+
+# solution sourced from https://learnandlearn.com/python-programming/python-reference/how-to-find-factorial-python-using-factorial-function
