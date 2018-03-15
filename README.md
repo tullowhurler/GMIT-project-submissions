@@ -7,3 +7,5 @@ Exercise 3 in Collatz.py, I have done the code with and without the integer prom
 Exercise 4 in Project Euler 5.py 
 
 Exercise 5 in irisformat.py
+
+Exercise 6 in factorial.py
