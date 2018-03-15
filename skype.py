@@ -4,6 +4,6 @@
 x = 11
 y = x + 11
 
-while y < 150:
+while y < 140: 
     y = x + y
 print(y)
