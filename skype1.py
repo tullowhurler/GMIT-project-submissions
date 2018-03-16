@@ -15,3 +15,6 @@ def summultiply(x,y):
   return total 
 print(summultiply(11,13))
 print(summultiply(5,123)) # Ian's solution
+
+
+
