@@ -1,20 +1,23 @@
-# Brian Condon
+## Brian Condon
 # 12/3/18
 # Exercise 6, Factorials 
 
 # code sourced from https://www.programiz.com/python-programming/examples/factorial and edited to my own requirements
+# using the range function to find the factorial that is inputted into the block of code
 num = 5
 factorial = 1
 for i in range(1, num + 1):
     factorial = factorial * i
 print("The factorial of" , num, "is", factorial)
 
+# same block of code using a different input called num1
 num1 = 7
 factorial = 1
 for i in range(1, num1 + 1):
     factorial = factorial * i
 print("The factorial of" , num1, "is", factorial)
 
+# same block of code using a different input called num1
 num2 = 10
 factorial = 1
 for i in range(1, num2 + 1):
