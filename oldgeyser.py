@@ -12,3 +12,6 @@ meanfirstcol = numpy.mean(data[:,0])
 
 print("Average of first column is",meanfirstcol)
 
+import matplotlib.pyplot as pl
+pl.hist(firstcol)
+pl.show()
