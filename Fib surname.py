@@ -1,4 +1,4 @@
-# Brian Condon Week 1
+  # Brian Condon Week 1
 # A program that displays Fibonacci numbers.
 
 def fib(n):
